@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-amangarg3839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:amangarg3839@gmail.com)
 
-__Check out my GitHub repository:__
+<h2>__Check out my GitHub repository:__</h2>
 
 <div>
   <p>
