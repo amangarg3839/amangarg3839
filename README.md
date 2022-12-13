@@ -18,6 +18,7 @@
 <a href="https://stackoverflow.com/users/20517598/aman-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20517271" height="30" width="40" /></a>
 <a href="https://instagram.com/thenameisgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameisgarg" height="30" width="40" /></a>
 <a href="https://www.w3profile.com/amangarg3839" target="blank"><img align="center" src="https://yt3.ggpht.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj" alt="amangarg3839" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/thenameisgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenameisgarg" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
