@@ -1,11 +1,11 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
-<h1 align="center">Hi 👋, I'm Aman Garg</h1>
+<h1 align="left">Hi 👋, I'm Aman Garg</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
-<div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=amangarg3839&label=Profile%20views&color=0e75b6&style=flat-square" alt="amangarg3839" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amangarg3839&label=Profile%20views&color=0e75b6&style=flat-square" alt="amangarg3839" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/followers/amangarg3839.svg?style=social&label=Follow" alt="amangarg3839" /> </p>
-    </div>
+
 
 - 🔭 I’m currently working on *Weather App using HTML, CSS and JavaScript*
 
@@ -14,6 +14,19 @@
 - 💬 Ask me about ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5), ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3), ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-amangarg3839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:amangarg3839@gmail.com)
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/amangarg3839/Car-Rental-Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Car-Rental-Website" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/amangarg3839/Mini-Python-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Mini-Python-Project" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
