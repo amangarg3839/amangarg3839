@@ -39,8 +39,8 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangarg3839" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amangarg3839" alt="WakaTime" />
+   <b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=laxmena" alt="WakaTime" />
   </p>
 </div>
 
