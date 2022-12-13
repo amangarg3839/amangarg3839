@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning *Javascript*
 
-- 💬 Ask me about *Html, CSS, Python, Bootstrap*
+- 💬 Ask me about ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5), ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3), ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)*
 
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-amangarg3839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:amangarg3839@gmail.com)
 
