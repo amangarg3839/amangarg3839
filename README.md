@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *Html, CSS, Python, Bootstrap*
 
-- 📫 How to reach me *amangarg3839@gmail.com*
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-amangarg3839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:amangarg3839@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
