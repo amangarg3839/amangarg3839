@@ -26,9 +26,6 @@
     <a href="https://github.com/amangarg3839/Mini-Python-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Mini-Python-Project" alt="GitHub Stats" />
     </a>
-     <a href="https://github.com/amangarg3839/Weather-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Weather-App" alt="GitHub Stats" />
-    </a>
   </p>
 </div>
 
