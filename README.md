@@ -33,7 +33,7 @@
 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
+  <b><em>GitHub Stats:</em></b> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangarg3839" alt="GitHub Stats"     width="46%" /> <br/><br/>
   </p>
 </div>
@@ -41,10 +41,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangarg3839&show_icons=true&locale=en&layout=compact" alt="amangarg3839" /></p><br><br>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=amangarg3839&show_icons=true&locale=en" alt="amangarg3839" width="45%" /></p>
-<a href="https://wakatime.com"><img align="right" src="https://wakatime.com/share/@amangarg3839/2c7e5cf9-5a7b-4c9f-a514-1b3b38ff34b8.png" width="45%"
- /></a>
+
  
- <a href="https://wakatime.com"><img align="left" src="https://wakatime.com/share/@amangarg3839/97f67fdb-56d2-45b3-b701-0cc17e635c05.png" width="45" /></a>
+ 
 </div>
 <div>
   <h2 align="left">Connect with me:</h2>
