@@ -41,7 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangarg3839&show_icons=true&locale=en&layout=compact" alt="amangarg3839" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangarg3839&show_icons=true&locale=en" alt="amangarg3839" /></p>
-<p><figure><embed src="https://wakatime.com/share/@amangarg3839/e3dae6c9-13b7-4c2c-b04f-6e7bd6f423ec.svg"></embed></figure></p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@amangarg3839/2c7e5cf9-5a7b-4c9f-a514-1b3b38ff34b8.png" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
