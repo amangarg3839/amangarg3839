@@ -44,7 +44,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@amangarg3839/2c7e5cf9-5a7b-4c9f-a514-1b3b38ff34b8.png" width="45%"
  /></a>
  
- <a href="https://wakatime.com"><img align="left"src="https://wakatime.com/share/@amangarg3839/97f67fdb-56d2-45b3-b701-0cc17e635c05.png" width="45" /></a>
+ <a href="https://wakatime.com"><img align="left" src="https://wakatime.com/share/@amangarg3839/97f67fdb-56d2-45b3-b701-0cc17e635c05.png" width="45" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
