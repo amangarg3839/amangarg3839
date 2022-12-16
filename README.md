@@ -28,12 +28,12 @@
     </a>
   </p>
 </div>
-<div>
+
 <h2>👀 Stats</h2>
 
-<div>
+
   <p align="center">
-  <b><em>GitHub Stats:</em></b> 
+  <b><em>GitHub Stats:</em></b> <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangarg3839" alt="GitHub Stats"     width="46%" /> <br/><br/>
   </p>
 </div>
