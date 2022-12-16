@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Car-Rental-Website" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/amangarg3839/Mini-Python-Project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Mini-Python-Project" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangarg3839&repo=Mini-Python-Project" alt="GitHub Stats" width="41%" />
     </a>
   </p>
 </div>
