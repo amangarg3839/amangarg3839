@@ -28,7 +28,7 @@
     </a>
   </p>
 </div>
-
+<div>
 <h2>👀 Stats</h2>
 
 <div>
@@ -45,8 +45,9 @@
  /></a>
  
  <a href="https://wakatime.com"><img align="left" src="https://wakatime.com/share/@amangarg3839/97f67fdb-56d2-45b3-b701-0cc17e635c05.png" width="45" /></a>
-
-<h2 align="left">Connect with me:</h2>
+</div>
+<div>
+  <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/amangarg3839/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amangarg3839" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20517598/aman-garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20517271" height="30" width="40" /></a>
@@ -54,7 +55,9 @@
 <a href="https://www.w3profile.com/amangarg3839" target="blank"><img align="center" src="https://yt3.ggpht.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj" alt="amangarg3839" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/thenameisgarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thenameisgarg" height="30" width="40" style="max-width: 100%;"></a>
 </p>
+  </div>
 
+<div>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -62,6 +65,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+  </div>
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring the repositories!</h3>
