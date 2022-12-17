@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on *Weather App using HTML, CSS and JavaScript*
+- 🔭 I’m currently working on *Weather App using HTML, CSS and JavaScript*     
 
 - 🌱 I’m currently learning *Javascript*
 
